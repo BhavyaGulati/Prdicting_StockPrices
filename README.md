@@ -14,3 +14,7 @@ Predicting closing prices of stock using Tensorflow and sentiment analysis using
 * textblob (https://textblob.readthedocs.io/en/dev/)
 * requests(http://docs.python-requests.org/en/master/)
 * keras(https://keras.io/) Runs with TensorFlow or Theano, so you will need one of them.
+
+Before you go and run the code, Install all dependencies.
+
+Make an application on twitter dev page and get your keys for authentication.
