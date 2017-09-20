@@ -1,7 +1,7 @@
 # Prdicting_StockPrices
 Predicting closing prices of stock using Tensorflow and sentiment analysis using tweety and textblob
 
-### The python script "Predict_Stock.py" does the following:
+### The python script "TwitterSentimentbasedStockPrediction.py" does the following:
 
 1. Asks the user for a stock quote from NASDAQ (eg: AAPL, FB, GOOGL)
 2. Uses Tweepy to retrieve tweets about that stock.
